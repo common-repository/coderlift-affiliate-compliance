@@ -1,0 +1,9 @@
+.comp-text {
+	background: #ededed;
+	padding: 20px;
+	/* width: 50%; */
+	margin: 0 auto;
+}
+.comp-text p {
+	margin: 0;
+}
